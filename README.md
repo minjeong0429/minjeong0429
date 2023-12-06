@@ -1,4 +1,8 @@
-**안녕하세요 !!**
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=a7e2fb&height=120&text=&animation=blinking&fontColor=000000&fontSize=70" />
+    </div>
+    
+**안녕하세요 !!**[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminjeong0429%2Fhit-counter&count_bg=%23DFA1D9&title_bg=%23E26CE7&icon=&icon_color=%23F1C5EA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 =============
 **소개**
 -----------------
@@ -27,4 +31,13 @@
 
 <a href="https://www.youtube.com/watch?v=1hrXa6ML37E">
 <img src="https://img.shields.io/badge/김태래-3178C6?style=flat-square&logo=logseq&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/watch?v=j7ky2tj0kAY">
+<img src="https://img.shields.io/badge/태래-FFCC22?style=flat-square&logo=undertale&logoColor=white"/>
+</a
+<a href="https://www.youtube.com/watch?v=2x08iCLFOiU">
+<img src="https://img.shields.io/badge/명창강아지-50AF95?style=flat-square&logo=applemusice&logoColor=white"/>
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/오리-FCBFBD?style=flat-square&logo=applemusice&logoColor=white"/>
 </a>
