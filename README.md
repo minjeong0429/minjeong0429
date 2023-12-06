@@ -24,3 +24,7 @@
 * [creep - Radiohead](https://www.youtube.com/watch?v=XFkzRNyygfk)
 * [last Night On Earth - Green Day](https://www.youtube.com/watch?v=xg_Y7Or_hWM)
 * [Good Night - ZEROBASEONE](https://www.youtube.com/watch?v=DSpVzVJdA5E)
+
+<a href="https://www.youtube.com/watch?v=1hrXa6ML37E">
+<img src="https://img.shields.io/badge/김태래-3178C6?style=flat-square&logo=logseq&logoColor=white"/>
+</a>
